@@ -1,0 +1,9 @@
+avocado.stg.atlassian.com 
+avocado.stg.atlassian.com 
+avocado.stg.atlassian.com 
+customer-context-gateway.atlassian.com 
+customer-context-gateway.atlassian.com 
+customer-context-gateway.atlassian.com 
+desktop.atlassian.com 
+desktop.atlassian.com 
+desktop.atlassian.com 
