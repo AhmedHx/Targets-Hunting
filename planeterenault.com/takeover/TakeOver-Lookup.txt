@@ -1,0 +1,300 @@
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+images.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+dev.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+images2.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+damonhill.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+openx.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+gestion.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+images2.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+images2.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+roundcube.planeterenault.com is an alias for ssl0.ovh.net.
+ssl0.ovh.net has address 193.70.18.144
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+dev.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+dev.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+damonhill.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+damonhill.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+openx.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+gestion.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+openx.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+gestion.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+roundcube.planeterenault.com is an alias for ssl0.ovh.net.
+ssl0.ovh.net has address 193.70.18.144
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+roundcube.planeterenault.com is an alias for ssl0.ovh.net.
+ssl0.ovh.net has address 193.70.18.144
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+images.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+serverpr.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+images.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+serverpr.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+cdn3.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+www.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+serverpr.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+openx3.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+www.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+Using domain server:
+Name: 1.1.1.1
+Address: 1.1.1.1#53
+Aliases: 
+
+cdn.planeterenault.com is an alias for www.planeterenault.com.
+www.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+www.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+cdn3.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+cdn3.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+cdn.planeterenault.com is an alias for www.planeterenault.com.
+www.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+cdn.planeterenault.com is an alias for www.planeterenault.com.
+www.planeterenault.com is an alias for planeterenault.com.
+planeterenault.com has address 146.59.195.240
+planeterenault.com mail is handled by 100 mxb.ovh.net.
+planeterenault.com mail is handled by 5 mx4.ovh.net.
+planeterenault.com mail is handled by 1 mx3.ovh.net.
+Using domain server:
+Name: 8.8.4.4
+Address: 8.8.4.4#53
+Aliases: 
+
+openx3.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240
+Using domain server:
+Name: 8.8.8.8
+Address: 8.8.8.8#53
+Aliases: 
+
+openx3.planeterenault.com is an alias for vps3.planeterenault.com.
+vps3.planeterenault.com has address 146.59.195.240

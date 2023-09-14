@@ -1,0 +1,12 @@
+-Not Vulnerable  serverpr.planeterenault.com
+-Not Vulnerable  images2.planeterenault.com
+-Not Vulnerable  images.planeterenault.com
+-Not Vulnerable  damonhill.planeterenault.com
+-Not Vulnerable  roundcube.planeterenault.com
+-Not Vulnerable  www.planeterenault.com
+-Not Vulnerable  dev.planeterenault.com
+-Not Vulnerable  cdn3.planeterenault.com
+-Not Vulnerable  gestion.planeterenault.com
+-Not Vulnerable  openx.planeterenault.com
+-Not Vulnerable  cdn.planeterenault.com
+-Not Vulnerable  openx3.planeterenault.com
